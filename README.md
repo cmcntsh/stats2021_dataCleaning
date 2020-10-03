@@ -12,7 +12,7 @@
 * Getting started with qplot (optional) available at: https://www.springer.com/cda/content/document/cda_downloaddocument/9780387981406-c1.pdf%3FSGWID=0-0-45-766402-p173897424
 * Data visualization with ggplot2 cheat sheet (optional) available at: https://www.rstudio.com/wp-content/uploads/2016/11/ggplot2-cheatsheet-2.1.pdf
 * Learning Statistics with R chapter 9: Introduction to probability (skim) available at: https://learningstatisticswithr.com/book/probability.html
-* 
+* Navarro Chapter 4 - 7 (skim) available at: https://drive.google.com/file/d/1awJBpfse5BpesVMRijnggTRSTygNWGl0/view
 
 ## Statistical concept videos
 
