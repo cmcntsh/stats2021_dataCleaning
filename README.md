@@ -2,6 +2,9 @@
 
 ## Exercises
 
+* Probability practice: https://www.khanacademy.org/math/statistics-probability/probability-library
+* Data cleaning and data exploration tutorial: https://github.com/cmcntsh/stats2021_exer_dataCleaningExploration
+
 ## Readings
 
 * Full name of texts and links in previous page: https://github.com/cmcntsh/stats2021_intro
