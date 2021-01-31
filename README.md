@@ -3,7 +3,7 @@
 ## Exercises
 
 * Probability practice: https://www.khanacademy.org/math/statistics-probability/probability-library
-* Data cleaning and data exploration tutorial: https://github.com/cmcntsh/stats2021_exer_dataCleaningExploration
+* Data cleaning and data exploration exercise: https://github.com/cmcntsh/stats2021_exer_dataCleaningExploration
 
 ## Readings
 
