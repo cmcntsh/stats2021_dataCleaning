@@ -1,5 +1,7 @@
 # Foundations - Data Cleaning, Data Exploration, Probability
 
+This is part of a set of pages on statistics. https://github.com/cmcntsh/stats2021_topics
+
 ## Exercises
 
 * Probability practice: https://www.khanacademy.org/math/statistics-probability/probability-library
