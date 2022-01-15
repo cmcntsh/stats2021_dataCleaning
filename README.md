@@ -21,6 +21,7 @@ This is part of a set of pages on statistics. https://github.com/cmcntsh/stats20
 
 ## Statistical concept videos
 
+* Overview of the Analysis Process (9 min): https://youtu.be/0AKZ3zvFzmY
 * Probability 1 (12 min): https://www.youtube.com/watch?v=OyddY7DlV58&index=14&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr
 * Probability 2 (13 min) (optional): https://www.youtube.com/watch?v=oZCskBpHWyk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr&index=15
 * Probability independent and dependent events (12 min): https://www.youtube.com/watch?v=jos1yBC_L8E
